@@ -32,6 +32,5 @@ Special thanks to the following:
 ## Spreadsheets
 ### [rudj Tournament Log](https://docs.google.com/spreadsheets/d/1AIb1ZBtszDdxegGoAUQYBmBnczXaw4w7y6BX_9AJpjc/edit?gid=1691992926#gid=1691992926) <sub><sup>- A clean simple format for archiving your tournament history</sup></sub>
 ### [rudj Draft Sheet]()
-### [rudj Teamsheet: min/max]()
-### [rudj Teamsheet: scorev1]()
+### [rudj Teamsheet]()
 ### rudj Tryouts sheet
