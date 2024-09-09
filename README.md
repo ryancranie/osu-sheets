@@ -9,6 +9,6 @@
 [![stars](https://img.shields.io/github/stars/ryancranie/tourney-sheets?style=flat-square)](https://github.com/ryancranie/tourney-sheets)
 [![lastcommit](https://img.shields.io/github/last-commit/ryancranie/tourney-sheets?style=flat-square)](https://github.com/ryancranie/tourney-sheets)
 
-[![sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://github.com/ryancranie/tourney-sheets)
+[![sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://drive.google.com/drive/folders/1apSsEoAv3WGYSrVMohPvmrMSO5MPxdCC?usp=sharing)
 
 </h1>
